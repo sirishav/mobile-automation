@@ -1,4 +1,4 @@
-# theScore QA Automation Challenge (Mobile)
+# QA Automation(Mobile)
 This project is a sample automation framework for testing Android applications using Java 11, Appium, Android SDK, Selenium, TestNG and Maven.
 
 ## Prerequisites
